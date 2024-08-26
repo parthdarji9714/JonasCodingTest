@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{643E46FE-7BBA-4B04-B52D-581D135574A8}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\parth\\downloads\\jonascodingtest-master\\jonascodingtest-master\\businesslayer\\businessprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643E46FE-7BBA-4B04-B52D-581D135574A8}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businessprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\webapi\\app_start\\appservicesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\app_start\\appservicesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\webapi\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\businesslayer.model\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71013A3B-8D62-483A-AD6B-0FF1A9781CA6}|BusinessLayer.Model\\BusinessLayer.Model.csproj|solutionrelative:businesslayer.model\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\webapi\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C79AC6-1500-4088-A223-1ACBF93EBF7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessProfile.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\BusinessLayer\\BusinessProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessProfile.cs",
+              "ToolTip": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\BusinessLayer\\BusinessProfile.cs",
+              "RelativeToolTip": "BusinessLayer\\BusinessProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:49:20.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppServicesProfile.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\WebApi\\App_Start\\AppServicesProfile.cs",
+              "RelativeDocumentMoniker": "WebApi\\App_Start\\AppServicesProfile.cs",
+              "ToolTip": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\WebApi\\App_Start\\AppServicesProfile.cs",
+              "RelativeToolTip": "WebApi\\App_Start\\AppServicesProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:48:57.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NinjectWebCommon.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\WebApi\\App_Start\\NinjectWebCommon.cs",
+              "RelativeDocumentMoniker": "WebApi\\App_Start\\NinjectWebCommon.cs",
+              "ToolTip": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\WebApi\\App_Start\\NinjectWebCommon.cs",
+              "RelativeToolTip": "WebApi\\App_Start\\NinjectWebCommon.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwFcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:48:12.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\WebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "WebApi\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\WebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "WebApi\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:48:09.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\WebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\WebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:44:08.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\BusinessLayer.Model\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer.Model\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\BusinessLayer.Model\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "BusinessLayer.Model\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:36:41.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\WebApi\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\parth\\Downloads\\JonasCodingTest-master\\JonasCodingTest-master\\WebApi\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:41:33.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
